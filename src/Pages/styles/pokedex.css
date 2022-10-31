@@ -1,0 +1,27 @@
+.pokedex__header{
+    position: absolute;
+    top: 160px;
+    left: 155px;
+}
+
+.card-container{
+    position: absolute;
+    top: 350px;
+    left: 155px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 50px 10px;
+}
+.label{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+}
+.span__name{
+    color: #FE1936;
+}

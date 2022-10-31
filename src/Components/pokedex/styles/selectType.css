@@ -1,0 +1,24 @@
+.pokedex__selection{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: absolute;
+    width: 510px;
+    height: 50px;
+    left: 700px;
+    top: 60px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15);
+    text-transform: capitalize;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #4F4F4F;
+    border: none;
+    padding: 0 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+
